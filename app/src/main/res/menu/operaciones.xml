@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Encender Bluetooth"
+        android:id="@+id/uno"></item>
+    <item
+        android:title="Bluetooth Visible"
+        android:id="@+id/dos"></item>
+    <item
+
+        android:title="Apagar Bluetooth"
+        android:id="@+id/tres"></item
+        >
+    <item
+        android:title="Dispositivos Emparejados"
+        android:id="@+id/cuatro"></item>
+</menu>
